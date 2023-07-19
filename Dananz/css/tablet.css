@@ -1,0 +1,85 @@
+/* Tablet Version [576; 767] */
+@media (max-width: 767.5px) {
+  .header__text a{
+    display: initial !important; 
+    
+  }
+  .header__text h4{
+    display: none;
+  }
+.header__text :nth-child(6){
+  display:none !important;
+}
+.start__all{
+  left: 900px;
+  top: 400px;
+  font-size: 28px;
+}
+.start__box{
+left: 700px;
+top: 500px;
+}
+  .about {
+  padding:160px 75px  0;
+  }
+
+  .about__face {
+    position:absolute;
+    top: 600px;
+    left: 883px;
+  }
+  .about__textBox {
+    top: 700px;
+    left: 1000px;
+    gap: 20px;
+  }
+  .service__attractive {
+    width: 500px;
+  }
+  .header {
+    padding: 10px;
+  }
+
+
+.header__logo h1{
+  padding: 30px 0 0 0 ;
+  padding-left: 65px;
+}
+.start__all{
+  width: 400px;
+}
+.start h2{
+  width: 450px;
+}
+.start__all{
+  left: 1050px;
+  top: 300px;
+}
+.about .p {
+width: 1000px;
+}
+.about__face {
+  position:absolute;
+  top: 400px;
+  left: 883px;
+}
+.about__textBox {
+  top: 500px;
+  width: 200px;
+  font-size: 50px;
+}
+.product__Box3 p,
+.product__Box2 p,
+.product__Box4 p,
+.product__Box1 p {
+  width: 500px;
+}
+.footer{
+  gap: 300px;
+} 
+.footer__box h5 {
+  width: 500px;
+  
+}
+
+}
